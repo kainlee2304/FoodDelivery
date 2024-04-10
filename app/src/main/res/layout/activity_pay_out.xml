@@ -59,6 +59,7 @@
                 android:layout_width="40dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:textColor="@color/black"
                 android:background="@drawable/edittextshape"
                 android:fontFamily="@font/yeonsung_regular"
                 android:paddingLeft="8dp"
@@ -93,6 +94,7 @@
                 android:layout_width="40dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:textColor="@color/black"
                 android:background="@drawable/edittextshape"
                 android:fontFamily="@font/yeonsung_regular"
                 android:paddingLeft="8dp"
@@ -130,6 +132,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/edittextshape"
                 android:fontFamily="@font/yeonsung_regular"
+                android:textColor="@color/black"
                 android:paddingLeft="8dp"
                 android:text="Phone" />
 
@@ -164,6 +167,7 @@
                 android:background="@drawable/edittextshape"
                 android:fontFamily="@font/yeonsung_regular"
                 android:paddingLeft="8dp"
+                android:textColor="@color/black"
                 android:text="Payment Method" />
 
             <ImageView
@@ -193,6 +197,7 @@
                 android:layout_width="40dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:textColor="@color/black"
                 android:background="@drawable/edittextshape"
                 android:fontFamily="@font/yeonsung_regular"
                 android:paddingLeft="8dp"
